@@ -13,7 +13,7 @@
         <img height="200" alt="Readme stats" src="https://github-readme-stats.vercel.app/api?username=saqibjavaiddev&theme=graywhite&show_icons=true&icon_color=a960ff" />
     </a>
     <a href="https://github.com/saqibjavaiddev/github-readme-stats">
-        <img height="200" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanessaAoki&hide=javascript,scss&theme=graywhite&layout=compact)" />
+        <img height="200" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saqibjavaiddev&hide=javascript,scss&theme=graywhite&layout=compact)" />
     </a>
 </p>
 
