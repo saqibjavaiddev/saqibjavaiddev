@@ -48,7 +48,7 @@ These are my current favorite projects, please take a look at them:
 I’m always looking for new challenges and opportunities to collaborate! Get in touch with me:
 
 <br><br>
-<p align="center">
+
    <a href="https://www.linkedin.com/in/saqibjavaiddev/">
         <img alt="Follow me" src="https://img.shields.io/badge/-LinkedIn-%23a960ff?style=for-the-badge&logo=linkedin">
     </a> 
@@ -56,6 +56,6 @@ I’m always looking for new challenges and opportunities to collaborate! Get in
     <a href="mailto:saqibjavaid082@gmail.com">
         <img alt="Contact me" src="https://img.shields.io/badge/-contact%20me-%23a960ff?style=for-the-badge&logo=Mail.Ru">
     </a>
-</p>
+
 <br>
-bg-color: a960ff 
+
