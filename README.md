@@ -26,36 +26,29 @@
 > *My "Most Used Languages" does not indicate my skill level, it's just a GitHub metric of which languages have the most code on my GitHub repositories.*
 <br>
 
-
-
-</br>
-
-## Pinned Projects
+### Pinned Projects
 
 These are my current favorite projects, please take a look at them:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saqibjavaiddev&repo=My-Portfolio&show_owner=true)](https://github.com/saqibjavaiddev/My-Portfolio)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saqibjavaiddev&repo=To-Do-list-JS-Project&show_owner=true)](https://github.com/saqibjavaiddev/To-Do-list-JS-Project)
 
-
-
-
 <hr>
-
-
 <br>
-    <summary><strong>Contact me</strong></summary>
+
+### Contact me
 I’m always looking for new challenges and opportunities to collaborate! Get in touch with me:
+<br>
+<p>
 
-<br><br>
-
-   <a href="https://www.linkedin.com/in/saqibjavaiddev/">
+   <a href="https://www.linkedin.com/in/saqibjavaiddev">
         <img alt="Follow me" src="https://img.shields.io/badge/-LinkedIn-%23a960ff?style=for-the-badge&logo=linkedin">
     </a> 
-   
-    <a href="mailto:saqibjavaid082@gmail.com">
+ <a href="mailto:saqibjavaid082@gmail.com">
         <img alt="Contact me" src="https://img.shields.io/badge/-contact%20me-%23a960ff?style=for-the-badge&logo=Mail.Ru">
-    </a>
-
+    </a> 
+   
+  
+</p>
 <br>
 
