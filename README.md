@@ -28,7 +28,8 @@
 
 
 
-<br>
+</br>
+
 ## Pinned Projects
 
 These are my current favorite projects, please take a look at them:
@@ -46,17 +47,15 @@ These are my current favorite projects, please take a look at them:
     <summary><strong>Contact me</strong></summary>
 I’m always looking for new challenges and opportunities to collaborate! Get in touch with me:
 
-
+<br><br>
 <p align="center">
-<!--     <a href="https://www.linkedin.com/in/saqibjavaid/">
+   <a href="https://www.linkedin.com/in/saqibjavaiddev/">
         <img alt="Follow me" src="https://img.shields.io/badge/-LinkedIn-%23a960ff?style=for-the-badge&logo=linkedin">
-    </a> -->
-    <a href="https://twitter.com/saqibpaf">
-        <img alt="Follow me" src="https://img.shields.io/twitter/follow/saqibpaf?color=%23a960ff&label=%20%20%20Follow%20me&logo=twitter&style=for-the-badge">
-    </a>
+    </a> 
+   
     <a href="mailto:saqibjavaid082@gmail.com">
         <img alt="Contact me" src="https://img.shields.io/badge/-contact%20me-%23a960ff?style=for-the-badge&logo=Mail.Ru">
     </a>
 </p>
 <br>
-<!-- bg-color: a960ff -->
+bg-color: a960ff 
