@@ -26,30 +26,26 @@
 > *My "Most Used Languages" does not indicate my skill level, it's just a GitHub metric of which languages have the most code on my GitHub repositories.*
 <br>
 
-<details>
+
 
 <br>
-    <summary><strong>More Pinned Projects</strong></summary>
+## Pinned Projects
 
 These are my current favorite projects, please take a look at them:
 
-<!-- <p align="center">
-    <a href="https://github.com/">
-        <img alt="Ruby Capstone" src="https://github-readme-stats.vercel.app/api/pin/?username=VanessaAoki&repo=&theme=graywhite" />
-    </a>
-    <a href="">
-        <img alt="TicTacToe" src="https://github-readme-stats.vercel.app/api/pin/?username=VanessaAoki&repo=&theme=graywhite" />
-    </a>
-</p> -->
-</details>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saqibjavaiddev&repo=My-Portfolio&show_owner=true)](https://github.com/saqibjavaiddev/My-Portfolio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saqibjavaiddev&repo=To-Do-list-JS-Project&show_owner=true)](https://github.com/saqibjavaiddev/To-Do-list-JS-Project)
+
+
+
 
 <hr>
 
-<details>
+
 <br>
     <summary><strong>Contact me</strong></summary>
 I’m always looking for new challenges and opportunities to collaborate! Get in touch with me:
-</details>
+
 
 <p align="center">
 <!--     <a href="https://www.linkedin.com/in/saqibjavaid/">
