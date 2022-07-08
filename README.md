@@ -32,6 +32,8 @@ These are my current favorite projects, please take a look at them:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saqibjavaiddev&repo=My-Portfolio&show_owner=true)](https://github.com/saqibjavaiddev/My-Portfolio)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saqibjavaiddev&repo=HTML-CSS-and-JS-Final-Capstone&show_owner=true)](https://github.com/saqibjavaiddev/HTML-CSS-and-JS-Final-Capstone)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saqibjavaiddev&repo=Microverse-Trail-Project-Tribute-Page&show_owner=true)](https://github.com/saqibjavaiddev/Microverse-Trail-Project-Tribute-Page)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saqibjavaiddev&repo=Awesome-Books&show_owner=true)](https://github.com/saqibjavaiddev/Awesome-Books)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saqibjavaiddev&repo=To-Do-list-JS-Project&show_owner=true)](https://github.com/saqibjavaiddev/To-Do-list-JS-Project)
 
 <hr>
