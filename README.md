@@ -44,11 +44,11 @@ I’m always looking for new challenges and opportunities to collaborate! Get in
 <br>
 <p>
 
-   <a href="https://www.linkedin.com/in/saqibjavaiddev">
-        <img alt="Follow me" src="https://img.shields.io/badge/-LinkedIn-%23a960ff?style=for-the-badge&logo=linkedin">
+   <a href="https://www.linkedin.com/in/saqibjavaiddev" >
+        <img alt="Follow me" src="https://img.shields.io/badge/-LinkedIn-%23a960ff?style=for-the-badge&logo=linkedin" >
     </a> 
  <a href="mailto:saqibjavaid082@gmail.com">
-        <img alt="Contact me" src="https://img.shields.io/badge/-contact%20me-%23a960ff?style=for-the-badge&logo=Mail.Ru">
+        <img alt="Contact me" src="https://img.shields.io/badge/-contact%20me-%23a960ff?style=for-the-badge&logo=Mail.Ru" >
     </a> 
    
   
